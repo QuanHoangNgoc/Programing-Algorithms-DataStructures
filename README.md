@@ -6,4 +6,5 @@
 
 # Books
 - Tổng hợp sách và tài liệu: 
-  - [Onedrive](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/ErYvEOivorxHo7MmUGcP8k8BX5tNoIMaWNiCrM1faT7x-g?e=2tWfCT)
+  - [CP c3](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/ErYvEOivorxHo7MmUGcP8k8BX5tNoIMaWNiCrM1faT7x-g?e=2tWfCT)
+  - [DSA OOP Computer CTRRR](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EoofCsrkeRFLgIm655VAGN4Bbawe4fg71sjJ7Q9uzTyGGA?e=uEzVx8)
