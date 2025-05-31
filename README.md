@@ -1,4 +1,4 @@
-# 🌟 Illuminating Examination Experiences 📚
+# 🌟 VOI (Excellent Student Exam in Information) Illuminating Examination Experiences 📚
 
 ## 🎯 What is it?
 
@@ -8,7 +8,7 @@ This repository is a curated collection of resources designed to help students m
 
 ## 🔍 Why did we do it?
 
-The purpose of this project is to empower students with the tools and knowledge they need to excel in their academic endeavors. By focusing on energy management, psychological resilience, and access to high-quality educational resources, we aim to enhance the overall exam experience and academic success.
+This project aims to empower students with the tools and knowledge they need to excel in their academic endeavors. By focusing on energy management, psychological resilience, and access to high-quality educational resources, we aim to enhance the overall exam experience and academic success.
 
 ---
 
@@ -45,7 +45,7 @@ The purpose of this project is to empower students with the tools and knowledge 
 
 From this project, we learned:
 - The importance of **energy management** and maintaining a **healthy psychological state** during high-stress periods like exams.
-- How to **compile and organize educational resources** that are both accessible and valuable for students and educators.
+- How to compile and organize educational resources that are accessible and valuable for students and educators.
 - The impact of providing **clear, actionable advice** on academic performance and overall well-being.
 
 ---
