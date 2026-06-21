@@ -36,10 +36,10 @@ This project aims to empower students with the tools and knowledge they need to 
 ### 2. **Bibliophilic Delights**:
    - **Books**:
      - **CP C3**:
-     - <--- [CP C3](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/ErYvEOivorxHo7MmUGcP8k8BX5tNoIMaWNiCrM1faT7x-g?e=2tWfCT) ---!>
+     - <--- [CP C3](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/ErYvEOivorxHo7MmUGcP8k8BX5tNoIMaWNiCrM1faT7x-g?e=2tWfCT) !--->
    - **University Knowledge**:
      - **DSA OOP TCCTMT CTRR**:
-     - <--- [DSA OOP TCCTMT CTRR](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EoofCsrkeRFLgIm655VAGN4Bbawe4fg71sjJ7Q9uzTyGGA?e=uEzVx8) ---!>
+     - <--- [DSA OOP TCCTMT CTRR](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EoofCsrkeRFLgIm655VAGN4Bbawe4fg71sjJ7Q9uzTyGGA?e=uEzVx8) !--->
 
 ---
 
